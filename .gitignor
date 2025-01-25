@@ -1,0 +1,12 @@
+# Ignore compiled Java class files
+*.class
+*.jar
+
+# Ignore IntelliJ IDEA, Eclipse, and NetBeans project files
+/.idea/
+/.vscode/
+/target/
+/bin/
+
+# Ignore logs and temporary files
+*.log
